@@ -18,7 +18,7 @@
 ## 角色合集
 | 角色名  | 作者  | 下载链接 | 预览  | 介绍 |
 |:--------|:-----|:--------|:------|:------|
-| 小呆   | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/10MrORzhwAcYrVe6vW01tcg?pwd=ccs5)  |  <img src="preview_img/xd.png" alt="无" height="80" >  | B站视频 |
+| 小呆   | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1mfzBH1JXh8b8ArIc60Ktwg?pwd=s1hi)  |  <img src="preview_img/xd.png" alt="无" height="80" >  | B站视频 |
 | 纳西妲 | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1Yq3XQs02v9zK4ZWvhC54Jw?pwd=258z)  |  <img src="preview_img/nxd.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1fd4y1W7ht) |
 | 魈     | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1hpf6mNIQG8_Hktq3kErXnA?pwd=12iw)  |  <img src="preview_img/xiao.png" alt="无" height="120" >  | [B站视频](https://www.bilibili.com/video/BV1gv4y1a7Q7) |
 | 流浪者 | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1Ak8Sa5YIY0ELWKL82syBIg?pwd=g9qw) / [日配](https://pan.baidu.com/s/1hc1w73DWtrQvKWiRVEv91g?pwd=k48g)  |  <img src="preview_img/llz.png" alt="无" height="120" >  | [B站视频](https://www.bilibili.com/video/BV1W24y1p7es) |
