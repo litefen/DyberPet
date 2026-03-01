@@ -18,6 +18,7 @@
 ## 角色合集
 | 角色名  | 作者  | 下载链接 | 预览  | 介绍 |
 |:--------|:-----|:--------|:------|:------|
+| 小呆   | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/10MrORzhwAcYrVe6vW01tcg?pwd=ccs5)  |  <img src="preview_img/xd.png" alt="无" height="80" >  | B站视频 |
 | 纳西妲 | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1Yq3XQs02v9zK4ZWvhC54Jw?pwd=258z)  |  <img src="preview_img/nxd.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1fd4y1W7ht) |
 | 魈     | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1hpf6mNIQG8_Hktq3kErXnA?pwd=12iw)  |  <img src="preview_img/xiao.png" alt="无" height="120" >  | [B站视频](https://www.bilibili.com/video/BV1gv4y1a7Q7) |
 | 流浪者 | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1Ak8Sa5YIY0ELWKL82syBIg?pwd=g9qw) / [日配](https://pan.baidu.com/s/1hc1w73DWtrQvKWiRVEv91g?pwd=k48g)  |  <img src="preview_img/llz.png" alt="无" height="120" >  | [B站视频](https://www.bilibili.com/video/BV1W24y1p7es) |
@@ -26,13 +27,11 @@
 | 流萤Firefly | [吾道咕咕](https://space.bilibili.com/393688614) |  [百度网盘](https://pan.baidu.com/s/1kjQBRspWGhfD0sGdOEz_FA?pwd=q8kg)  | <img src="preview_img/lyff.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1xm421V7NZ)  |
 | 像素猫meme | [代号皮克嗖儿](https://space.bilibili.com/9959876) |  [百度网盘](https://pan.baidu.com/s/1cVPSZJiZ_PWJlyCL1rgpcQ?pwd=tgx7)  |  <img src="preview_img/maomeme.png" alt="无" height="120">  | [B站视频](https://www.bilibili.com/video/BV1EM4m117SW)  |
 | 像素四妹 | [代号皮克嗖儿](https://space.bilibili.com/9959876) |  [百度网盘](https://pan.baidu.com/s/1B34-U_gAVObriLpf4W59Bw?pwd=ggx5)  |  <img src="preview_img/simei.png" alt="无" height="120">  | [B站视频](https://www.bilibili.com/video/BV17txmenEKd)  |
+| 守岸人 | [吾道咕咕](https://space.bilibili.com/393688614) |  [百度网盘](https://pan.baidu.com/s/1vK-h0J7IKCXvFZppG3KAMA?pwd=pfnw)  | <img src="preview_img/sar.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1UDmGYVE6n)  |
+| 椿 | [吾道咕咕](https://space.bilibili.com/393688614) |  [百度网盘](https://pan.baidu.com/s/1rkIKeYMufrKvl50tpIevQg?pwd=u5qu)  | <img src="preview_img/chun.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1uYBvYQE97)  |
+| 饮月 | [吾道咕咕](https://space.bilibili.com/393688614) |  [百度网盘](https://pan.baidu.com/s/1ANcPNClxtiKGBJaVLrMWSA?pwd=bjfm)  | <img src="preview_img/yy.png" alt="无" height="120" > | [B站视频](https://www.bilibili.com/video/BV1Bh4y127w9)  |
 
-还在整理中的角色...  
-| 角色名  | 作者  | 下载链接 | 预览  | 介绍 |
-|:--------|:-----|:--------|:------|:------|
-| 饮月 |  |    |    |
-| 钟离 |  |    |    |
-| 乃琳 |  |    |    |
+
   
 
 ## 迷你宠物
