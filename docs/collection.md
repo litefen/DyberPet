@@ -56,5 +56,6 @@
 | 崩铁物品小包 | [栎咕咕](https://space.bilibili.com/14004864) |  [百度网盘](https://pan.baidu.com/s/1oC3zDfy9bVvikQSO3jr6Kg?pwd=zpmm)  |
 | 猫meme食物包 | [代号皮克嗖儿](https://space.bilibili.com/9959876) |  [百度网盘](https://pan.baidu.com/s/1vdPSZYgneBj72OxWFzg2Vg?pwd=sg5y)  |
 | Minecraft食物包 | [Jackxmt](https://github.com/Jackxmt) |  [蓝奏云](https://wwzd.lanzn.com/ibvHe2dlj41g)  |
+| 狮心王理查专属物品包 | [霜夜SY](https://space.bilibili.com/21020448) |  [夸克网盘](https://pan.quark.cn/s/6e36a5ac2969?pwd=UeZP)  |
 
 
